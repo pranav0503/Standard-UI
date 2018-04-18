@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Android/Insert App Indexing API Code" />
+    <ignoreAction name="Java/Modifiers/Make Protected" />
+    <ignoreAction name="Java/Modifiers/Make Private" />
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Java/Annotations/Add Annotation" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
+  </component>
+</application>
